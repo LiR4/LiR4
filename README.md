@@ -1,6 +1,6 @@
 ### Olá meu nome é Pedro, mas pode me chamar de Lira 🐱‍👤
 
-- 📚 Cursando técnico em Desinvolvimento De Sistemas 
+- 📚 Cursando técnico em Desenvolvimento De Sistemas 
 
 ##
 
